@@ -12,4 +12,4 @@ To run... java AES <option> <keyFile> <inputFile>
 
 Testing:
 
-	Run test.sh which encrypts then decrypts nput file
+	Run test.sh which encrypts then decrypts inputFile
